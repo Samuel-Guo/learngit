@@ -6,6 +6,9 @@
 
 //re remodefy 1
 //unfinish
+
+//writing...
+//home sth
 #include <iostream>
 #include <iomanip>
 //typedef void (Base::*CLASS_FUNC)(void);
